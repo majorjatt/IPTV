@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ChardikalaGurbani.in" tvg-name="Chardikala Gurbani Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Chardikala Gurbani Ⓨ
+https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChardikalaTVNorthAmerica.in" tvg-name="Chardikala TV North America Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Chardikala TV North America Ⓨ
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Fateh TV Ⓨ
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",PTC Punjabi Ⓨ
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",PTC Simran Ⓨ
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/a682c050-1974-4e9b-8935-e5508d1ce94d/3.m3u8
+
+#EXTINF:-1 tvg-id="GurdwaraBanglaSahibJi.in" tvg-name="Gurdwara Bangla Sahib Ji Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Gurdwara Bangla Sahib Ji Ⓨ
+https://www.youtube.com/watch?v=JhCXWqyVIMA
