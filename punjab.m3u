@@ -13,4 +13,7 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="SangatTV.in" tvg-name="Sangat TV Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Sangat TV Ⓨ
+https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+
+
 http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
