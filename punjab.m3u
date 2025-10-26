@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ChardikalaGurbani.in" tvg-name="Chardikala Gurbani" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Chardikala Gurbani Ⓨ
+#EXTINF:-1 tvg-id="ChardikalaGurbani.in" tvg-name="Chardikala Gurbani Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Chardikala Gurbani Ⓨ
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChardikalaTVNorthAmerica.in" tvg-name="Chardikala TV North America" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Chardikala TV North America Ⓨ
+#EXTINF:-1 tvg-id="ChardikalaTVNorthAmerica.in" tvg-name="Chardikala TV North America Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Chardikala TV North America Ⓨ
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Fateh TV Ⓨ
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Fateh TV Ⓨ
 https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 
-#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",PTC Punjabi Ⓨ
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",PTC Punjabi Ⓨ
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="SangatTV.in" tvg-name="Sangat TV" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Sangat TV Ⓨ
+#EXTINF:-1 tvg-id="SangatTV.in" tvg-name="Sangat TV Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India",Sangat TV Ⓨ
 http://sangattv.flashmediacast.com:1975/live/livestream/playlist.m3u8
